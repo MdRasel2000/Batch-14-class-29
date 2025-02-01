@@ -1,0 +1,63 @@
+for loop
+
+for(in\condition\increement\deccrement){
+
+    statemnt...
+}
+
+
+let marks = [ 78, 87, 98, 54]
+
+for(i=0; i<marks.length; i++){
+
+    console.log(marks[i]);
+}
+
+while loop....
+initialazed
+while (range\con){
+    statemnt
+    increement|deccrement
+}
+
+
+let i = 0;
+while(i<marks.length);{
+       console.log(marks[i]);
+       i++; 
+}
+
+
+do while  loop.....
+
+initialize
+do{
+    statemnt...
+    increement\deccrement
+}
+
+while(range\condition)
+
+let w = 0;
+
+do{
+      console.log(marks[w]);
+      w++;
+}
+
+while(w<marks.length);
+
+
+
+forEach loop;
+
+marks.forEach(element=>{
+    console.log(element);
+})
+
+.......funtion.....
+funtion name(paramiter optional){
+   console.log(name);
+}
+name();
+
